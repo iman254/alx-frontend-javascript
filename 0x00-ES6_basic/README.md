@@ -1,1 +1,1 @@
-this is ES6 readme
+this readme is to be edited
